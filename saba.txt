@@ -1,6 +1,12 @@
 first line of code.
 its cloud computing class
 3rd line
+<<<<<<< HEAD
 its just a class.
 its a cloud computing lab.
 creating conflict
+=======
+its just a class. 
+its a cloud computing lab.
+its an amazing coding class.
+>>>>>>> master
